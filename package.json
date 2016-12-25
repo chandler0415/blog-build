@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "name": "blog-build",
+  "version": "1.0.0",
+  "description": "build blog",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/chandler0415/blog-build.git",
+    "type": "git"
+  },
+  "author": "chandler <chandler0415@sina.com>",
+  "license": "MIT"
+}
