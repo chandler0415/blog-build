@@ -1,5 +1,7 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "hexo-server": "^0.2.0"
+  },
   "name": "blog-build",
   "version": "1.0.0",
   "description": "build blog",
